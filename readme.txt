@@ -1,1 +1,1 @@
-hello prasad this is alkaif
+Basic Django App.
